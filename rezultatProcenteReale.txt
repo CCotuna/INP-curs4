@@ -1,0 +1,2 @@
+Sunt 10 numere reale in fisier.
+100
